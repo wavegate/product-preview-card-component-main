@@ -53,11 +53,12 @@ main {
   justify-content: space-between;
 }
 
-h4 {
+h2 {
   font-weight: 100;
   text-transform: uppercase;
   color: var(--darkGrayishBlue);
   letter-spacing: 4px;
+  font-size: 0.9rem;
 }
 
 h1 {
